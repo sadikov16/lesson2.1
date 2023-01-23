@@ -421,3 +421,128 @@
 .section8__box2{
     margin-top: 72px;
 }
+.section9__box2{
+    height: 356px;
+    width: 255px;
+}
+.section9__text{
+    color: #83888F;
+    margin-top: 24px;
+    display: inline-block;
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+}
+.section9__text2{
+    margin-left: 28.5px;
+    display: inline;
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #333D4B;
+}
+.section9__hr{
+    margin-top: 24px;
+    background: #83888F;
+    mix-blend-mode: normal;
+    opacity: 0.25;
+}
+.section9__box4{
+    margin-left: 125px  ;
+    height: 354px;
+    width: 730px;
+}
+.section9__box{
+    justify-content: center ;
+    margin: 159px auto 0;
+    display: flex;
+}
+.section9__text3{
+    display: inline-block;
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #83888F;
+}
+.section9__text4{
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #333D4B;
+}
+.section9__text5{
+    margin-top: 24px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+}
+.section9__box5{
+    gap: 23px;
+    display: flex;
+    margin-top: 56px;
+}
+.section9__box6{
+    background: #F4F1EB;
+    border-radius: 8px;
+    height: 250px;
+    width: 228px;
+    padding: 32px 28px 84px 28px;
+}   
+.section9__box10{
+    margin: 88px 0 0 545px;
+    padding: 27px 64px 27px 64px;
+    background: #2C343E;
+    height: 208px;
+    width: 730px;
+    
+}
+.section9__text6{
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+.section9__text7{
+    margin-top: 8px;
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 40px;
+    color: #FFFFFF;
+}
+span{
+    color: #0E8784;
+}
+.btn3{
+    margin: 40px 0 0 1058px;
+    border: none;
+    height: 56px;
+    width: 217px;
+    background: #0E8784;
+    border-radius: 6px;
+    font-family: 'Fraunces ';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    color: #FEFCF7;
+    
+}
